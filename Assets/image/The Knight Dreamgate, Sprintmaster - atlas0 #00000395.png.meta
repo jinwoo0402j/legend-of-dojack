@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: ccd70549d9d0e5640860f66fed4e3d35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 850
+        width: 73
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de228a968bcb76b4a91fa8b65c1f17ac
+      internalID: 1070274942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 864
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f56c7403bd0d40a1b74d8490878f0
+      internalID: -1684829028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 785
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420399effeec3b145a8340661cfa4fc9
+      internalID: 717755859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 725
+        width: 73
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466e0cff634ebe4aa21e3b50d2f36f1
+      internalID: 129507287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 782
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b6e0c8e68e7648bbb3a54d83142e1
+      internalID: 1375827089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 660
+        width: 79
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d6e20d639be8245ae90d9a52f0fd03
+      internalID: 1200466287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 719
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f24f3ce9bb5e409517c7fd9323a1e
+      internalID: 1079527397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 754
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15364df4e6c011c40aa451089ce21f4b
+      internalID: -1246202814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0f4765d0706b4db10290e72b15e4c
+      internalID: 55277787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 658
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00295b67ebc6f8641b2ac03f012c93fd
+      internalID: -498613317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 561
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251438bd2f05254c8e055733a09f5d7
+      internalID: 2022671539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 625
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd7fb40710fdf478e934657ba4f2f8
+      internalID: 443648530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 625
+        width: 74
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e278aaeb0ce2643950e327388abd53
+      internalID: -1549116672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1eea998a38a841a8d496534912faa
+      internalID: 161169183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 562
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e7dadae024ca4c85c2db27c1cc78c
+      internalID: -1601833487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 536
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a985b370baf8f244b10f29e0bd1913c
+      internalID: -379588916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 214
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1643a1e35110b442aa591fa4a6f5248
+      internalID: -477459804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 374
+        width: 249
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e647f18f8d3352a42bcdd1b9414a86b7
+      internalID: -1082558880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 359
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e653f03b3d76b74f841d6ca8f9d3055
+      internalID: 1329929988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 185
+        width: 153
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53264f1705a441479acbf325611f29a
+      internalID: 887122770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac10a6715abf894c941d12b32fe39f4
+      internalID: -768549883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 316
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ae5d418739494987a9e0d8c7dab9a
+      internalID: -233333023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 308
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e9a02b47c4e546842bc9fbf26cce7
+      internalID: 216427198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 117
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90930cc7cd51d4c9bb82c37f8c22dd
+      internalID: -351606279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e087d654adae82b4a9931d8e566fc930
+      internalID: -1012017717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 237
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6b76f101859e4f88f51a99f5922da
+      internalID: 572695136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca16ae42980a9428c96463615dda02
+      internalID: 890518600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 157
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb981084a0fe594ba1a20221fadf12c
+      internalID: 87214902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 132
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b5f227e29e6d458aa8bf631fab5fb
+      internalID: -1499469262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35385d3ea6ab24aaf3392febfac562
+      internalID: -829151979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 361
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4265c9c10767b154eb9f2e69abbf7e8f
+      internalID: -430781096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_0: 1070274942
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_1: -1684829028
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_10: 2022671539
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_11: 443648530
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_12: -1549116672
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_13: 161169183
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_14: -1601833487
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_15: -379588916
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_16: -477459804
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_17: -1082558880
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_18: 1329929988
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_19: 887122770
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_2: 717755859
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_20: -768549883
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_21: -233333023
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_22: 216427198
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_23: -351606279
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_24: -1012017717
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_25: 572695136
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_26: 890518600
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_27: 87214902
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_28: -1499469262
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_29: -829151979
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_3: 129507287
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_30: -430781096
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_4: 1375827089
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_5: 1200466287
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_6: 1079527397
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_7: -1246202814
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_8: 55277787
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_9: -498613317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
