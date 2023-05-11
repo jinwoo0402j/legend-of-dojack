@@ -27,8 +27,10 @@ public class EnemyHealth : MonoBehaviour
 
     private void Die()
     {
+        //죽은 상태
         animator.SetTrigger("death");
         // 보상 지급 코드 작성
+        // 파괴한다
         Destroy(gameObject);
     }
 }

@@ -8,7 +8,7 @@ public class PlayerHealth : MonoBehaviour
     public int maxHealth = 100;
     public int currentHealth;
 
-    public GameObject gameOverUI;
+    //public GameObject gameOverUI;
     public GameObject player;
 
     private bool isGameOver = false;
@@ -16,7 +16,7 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        gameOverUI.SetActive(false);
+        //gameOverUI.SetActive(false);
     }
 
     public void TakeDamage(int damageAmount)
@@ -34,11 +34,12 @@ public class PlayerHealth : MonoBehaviour
     {
         isGameOver = true;
         player.SetActive(false); // 캐릭터 오브젝트 비활성화
-        gameOverUI.SetActive(true);
+        //gameOverUI.SetActive(true);
+        LoadMainMenu();
     }
 
     public void LoadMainMenu()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("GameOver");
     }
 }
